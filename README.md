@@ -111,6 +111,18 @@ val pratyush = Developer(
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyush-deve&theme=tokyonight"
+    width="47%"
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyush-deve&theme=tokyonight"
+    width="47%"
+  />
+</p>
+
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
 
 ## <img src="https://img.shields.io/badge/Contributions-0B1020?style=flat-square&logo=github&logoColor=60A5FA" /> Contribution Graph
