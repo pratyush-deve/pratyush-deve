@@ -47,19 +47,34 @@ val pratyush = Developer(
 
 ## <img src="https://img.shields.io/badge/Projects-0B1020?style=flat-square&logo=appveyor&logoColor=60A5FA" /> Featured Projects
 
-> ### 🕒 Timelyst  
-> **`Live on Play Store`**  
-> Smart timetable app for intuitive schedule planning and focused daily productivity.  
+<div align="left">
 
-<a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
-  <img src="assets/timelyst-icon.png"
-</a>
+### 🕒 Timelyst
+
+<img 
+  src="assets/timelyst-icon.png" 
+  alt="Timelyst Icon" 
+  width="72"
+  style="border-radius: 18px; margin-top: 6px; margin-bottom: 10px;"
+/>
+
+<br/>
+
+**`Live on Play Store`**
+
+Smart timetable app for intuitive schedule planning and focused daily productivity.
 
 <br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
-  <img src="assets/playstore-button.svg" alt="Get it on Google Play" width="175" />
+  <img 
+    src="assets/playstore-button.svg" 
+    alt="Get it on Google Play" 
+    width="165"
+  />
 </a>
+
+</div>
 
 ---
 
