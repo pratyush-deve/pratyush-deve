@@ -49,32 +49,30 @@ val pratyush = Developer(
 
 <div align="left">
 
->### 🕒 Timelyst
-
-><img 
-  src="assets/timelyst-icon.png" 
-  alt="Timelyst Icon" 
-  width="72"
-  style="border-radius: 18px; margin-top: 6px; margin-bottom: 10px;"
-/>
-
-><br/>
-
->**`Live on Play Store`**
+> ### 🕒 Timelyst
 >
->Smart timetable app for intuitive schedule planning and focused daily productivity.
-
-><br/>
-
-><a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
-  <img 
-    src="assets/playstore-button.svg" 
-    alt="Get it on Google Play" 
-    width="165"
-  />
-</a>
-
-</div>
+> <img 
+>   src="assets/timelyst-icon.png" 
+>   alt="Timelyst Icon" 
+>   width="72"
+>   style="border-radius: 18px; margin-top: 6px; margin-bottom: 10px;"
+> />
+>
+> <br/>
+>
+> **`Live on Play Store`**
+>
+> Smart timetable app for intuitive schedule planning and focused daily productivity.
+>
+> <br/>
+>
+> <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
+>   <img 
+>     src="assets/playstore-button.svg" 
+>     alt="Get it on Google Play" 
+>     width="165"
+>   />
+> </a>
 
 ---
 
@@ -108,7 +106,7 @@ val pratyush = Developer(
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyush-deve&theme=tokyonight" 
     width="55%"
   />
 </p>
