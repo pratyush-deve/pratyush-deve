@@ -98,7 +98,7 @@ val pratyush = Developer(
   <a href="mailto:pratyush.deve@gmail.com">
     <img src="https://img.shields.io/badge/Email-101426?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/pratyush-nishank/)">
+  <a href="https://www.linkedin.com/in/pratyush-nishank/">
     <img src="https://img.shields.io/badge/LinkedIn-101426?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pratyush-deve">
