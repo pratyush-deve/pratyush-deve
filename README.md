@@ -49,7 +49,7 @@ val pratyush = Developer(
 
 <div align="left">
 
-### 🕒 Timelyst
+>### 🕒 Timelyst
 
 <img 
   src="assets/timelyst-icon.png" 
@@ -60,9 +60,9 @@ val pratyush = Developer(
 
 <br/>
 
-**`Live on Play Store`**
+>**`Live on Play Store`**
 
-Smart timetable app for intuitive schedule planning and focused daily productivity.
+>Smart timetable app for intuitive schedule planning and focused daily productivity.
 
 <br/>
 
@@ -94,18 +94,23 @@ Smart timetable app for intuitive schedule planning and focused daily productivi
 > **`Internal Testing • Play Store`**  
 > Generate and manage PDFs in a clean, distraction-free experience without overwhelming ads or UI.
 
-> ◼︎ Dark modular cards + subtle glow are intentionally kept minimal for GitHub rendering consistency and mobile readability.
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
 
 ## <img src="https://img.shields.io/badge/Analytics-0B1020?style=flat-square&logo=databricks&logoColor=A78BFA" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-deve&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=pratyush-deve&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
 </p>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
