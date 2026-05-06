@@ -47,61 +47,37 @@ val pratyush = Developer(
 
 ## <img src="https://img.shields.io/badge/Projects-0B1020?style=flat-square&logo=appveyor&logoColor=60A5FA" /> Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
-        <img src="https://play-lh.googleusercontent.com/YOUR_APP_ICON_LINK" alt="Timelyst app icon" width="84" />
-      </a>
-
-<h3>🕒 Timelyst</h3>
-
-<p><b>Live on Play Store</b></p>
-
-<p>
-Smart timetable app designed for intuitive schedule planning and focused daily productivity.
-</p>
+> ### 🕒 Timelyst  
+> **`Live on Play Store`**  
+> Smart timetable app for intuitive schedule planning and focused daily productivity.  
 
 <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
-  <img src="assets/playstore-button.svg" alt="Get it on Google Play" width="170" />
+  <img src="https://play.google.com/store/apps/icon?id=com.pratyush.timegrid" alt="Timelyst app icon" width="88" />
 </a>
-</td>
 
-<td width="50%" valign="top">
-  <h3>🧠 FrameID</h3>
+<br/>
 
-  <p><b>Computer Vision Utility</b></p>
+<a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
+  <img src="assets/playstore-button.svg" alt="Get it on Google Play" width="175" />
+</a>
 
-  <p>
-    Detects pre-input faces with a lightweight and practical detection flow optimized for smooth UX.
-  </p>
-</td>
-  </tr>
+---
 
-<tr><td colspan="2" height="14"></td></tr>
+> ### 🧠 FrameID  
+> **`Computer Vision Utility`**  
+> Detects pre-input faces with a lightweight and practical detection flow optimized for smooth UX.
 
-<tr>
-  <td width="50%" valign="top">
-    <h3>🪪 Informia</h3>
+---
 
-    <p><b>Internal Testing • Play Store</b></p>
+> ### 🪪 Informia  
+> **`Internal Testing • Play Store`**  
+> Store personal details in elegant interactive cards and manage documents/certificates in one place.
 
-    <p>
-      Store personal details in elegant interactive cards and manage documents/certificates in one place.
-    </p>
-  </td>
+---
 
-  <td width="50%" valign="top">
-    <h3>📄 PDF-Gen</h3>
-
-    <p><b>Internal Testing • Play Store</b></p>
-
-    <p>
-      Generate and manage PDFs in a clean, distraction-free experience without overwhelming ads or UI.
-    </p>
-  </td>
-</tr>
-</table>
+> ### 📄 PDF-Gen  
+> **`Internal Testing • Play Store`**  
+> Generate and manage PDFs in a clean, distraction-free experience without overwhelming ads or UI.
 
 > ◼︎ Dark modular cards + subtle glow are intentionally kept minimal for GitHub rendering consistency and mobile readability.
 
@@ -109,11 +85,13 @@ Smart timetable app designed for intuitive schedule planning and focused daily p
 
 ## <img src="https://img.shields.io/badge/Analytics-0B1020?style=flat-square&logo=databricks&logoColor=A78BFA" /> GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pratyush-deve&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9&border_color=2A2F4A" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&theme=transparent&title_color=8B5CF6&text_color=C9D1D9&border_color=2A2F4A" alt="Top Languages" />
-</div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-deve&show_icons=true&rank_icon=github&hide_border=true&bg_color=0B1020&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9" alt="Pratyush GitHub stats" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" height="165" />
+</p>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
 
@@ -135,7 +113,6 @@ Smart timetable app designed for intuitive schedule planning and focused daily p
   <a href="https://www.linkedin.com/in/pratyush-nishank/">
     <img src="https://img.shields.io/badge/LinkedIn-101426?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
-
   <a href="https://github.com/pratyush-deve">
     <img src="https://img.shields.io/badge/GitHub-101426?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="GitHub" />
   </a>
