@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratyush-nishank&style=for-the-badge&color=7c7cff" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pratyush-deve&style=for-the-badge&color=7c7cff" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Android%20Engineering-111827?style=for-the-badge&logo=android&logoColor=8B5CF6&labelColor=0B1020&color=111827" alt="Focus Badge" />
   <img src="https://img.shields.io/badge/Vibe-Cyberpunk%20Minimal-111827?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=0B1020&color=111827" alt="Theme Badge" />
 </p>
@@ -78,8 +78,8 @@ val pratyush = Developer(
 ## <img src="https://img.shields.io/badge/Analytics-0B1020?style=flat-square&logo=databricks&logoColor=A78BFA" /> GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pratyush-nishank&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9&border_color=2A2F4A" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-nishank&layout=compact&theme=transparent&title_color=8B5CF6&text_color=C9D1D9&border_color=2A2F4A" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pratyush-deve&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9&border_color=2A2F4A" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&theme=transparent&title_color=8B5CF6&text_color=C9D1D9&border_color=2A2F4A" alt="Top Languages" />
 </div>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
@@ -87,7 +87,7 @@ val pratyush = Developer(
 ## <img src="https://img.shields.io/badge/Contributions-0B1020?style=flat-square&logo=github&logoColor=60A5FA" /> Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-nishank&bg_color=0B1020&color=8B5CF6&line=60A5FA&point=C4B5FD&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-deve&bg_color=0B1020&color=8B5CF6&line=60A5FA&point=C4B5FD&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
 </div>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
@@ -95,13 +95,13 @@ val pratyush = Developer(
 ## <img src="https://img.shields.io/badge/Contact-0B1020?style=flat-square&logo=gmail&logoColor=A78BFA" /> Let's Connect
 
 <p align="center">
-  <a href="mailto:pratyush@example.com">
+  <a href="mailto:pratyush.deve@gmail.com">
     <img src="https://img.shields.io/badge/Email-101426?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/pratyush-nishank/)">
     <img src="https://img.shields.io/badge/LinkedIn-101426?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/pratyush-nishank">
+  <a href="https://github.com/pratyush-deve">
     <img src="https://img.shields.io/badge/GitHub-101426?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="GitHub" />
   </a>
 </p>
