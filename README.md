@@ -91,7 +91,7 @@ val pratyush = Developer(
 > ### 📄 PDF-Gen  
 > **`Internal Testing • Play Store`**  
 > Generate and manage PDFs in a clean, distraction-free experience without overwhelming ads or UI.
-
+</div>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
 
@@ -107,10 +107,9 @@ val pratyush = Developer(
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyush-deve&theme=tokyonight" 
-    width="55%"
+    width="47%"
   />
-</p>
-  
+
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyush-deve&theme=tokyonight"
     width="47%"
@@ -122,7 +121,7 @@ val pratyush = Developer(
 ## <img src="https://img.shields.io/badge/Contributions-0B1020?style=flat-square&logo=github&logoColor=60A5FA" /> Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-deve&bg_color=0B1020&color=8B5CF6&line=60A5FA&point=C4B5FD&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-deve&bg_color=0B1020&color=8B5CF6&line=60A5FA&point=C4B5FD&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
