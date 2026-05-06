@@ -50,26 +50,36 @@ val pratyush = Developer(
 > ### 🕒 Timelyst  
 > **`Live on Play Store`**  
 > Smart timetable app for intuitive schedule planning and focused daily productivity.  
-> <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN"><img src="https://play.google.com/store/apps/icon?id=com.pratyush.timegrid" alt="Timelyst app icon" width="88" /></a>  
-> <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN"><img src="assets/playstore-button.svg" alt="Get it on Google Play" width="175" /></a>
+
+<a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
+  <img src="https://play.google.com/store/apps/icon?id=com.pratyush.timegrid" alt="Timelyst app icon" width="88" />
+</a>
 
 <br/>
+
+<a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
+  <img src="assets/playstore-button.svg" alt="Get it on Google Play" width="175" />
+</a>
+
+---
 
 > ### 🧠 FrameID  
 > **`Computer Vision Utility`**  
 > Detects pre-input faces with a lightweight and practical detection flow optimized for smooth UX.
 
-<br/>
+---
 
 > ### 🪪 Informia  
 > **`Internal Testing • Play Store`**  
 > Store personal details in elegant interactive cards and manage documents/certificates in one place.
 
-<br/>
+---
 
 > ### 📄 PDF-Gen  
 > **`Internal Testing • Play Store`**  
 > Generate and manage PDFs in a clean, distraction-free experience without overwhelming ads or UI.
+
+> ◼︎ Dark modular cards + subtle glow are intentionally kept minimal for GitHub rendering consistency and mobile readability.
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
 
@@ -78,6 +88,7 @@ val pratyush = Developer(
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratyush-deve&show_icons=true&rank_icon=github&hide_border=true&bg_color=0B1020&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9" alt="Pratyush GitHub stats" height="165" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" height="165" />
 </p>
@@ -95,10 +106,11 @@ val pratyush = Developer(
 ## <img src="https://img.shields.io/badge/Contact-0B1020?style=flat-square&logo=gmail&logoColor=A78BFA" /> Let's Connect
 
 <p align="center">
-  <a href="mailto:pratyush@example.com">
+  <a href="mailto:pratyush.deve@gmail.com">
     <img src="https://img.shields.io/badge/Email-101426?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/">
+
+  <a href="https://www.linkedin.com/in/pratyush-nishank/">
     <img src="https://img.shields.io/badge/LinkedIn-101426?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pratyush-deve">
