@@ -1,0 +1,16 @@
+<svg width="340" height="96" viewBox="0 0 340 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="340" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E152B"/>
+      <stop offset="1" stop-color="#121B35"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="16" y1="8" x2="324" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="336" height="92" rx="20" fill="url(#bg)" stroke="url(#stroke)" stroke-width="3"/>
+  <polygon points="34,27 34,69 67,48" fill="#60A5FA"/>
+  <text x="84" y="39" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="16">GET IT ON</text>
+  <text x="84" y="65" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Google Play</text>
+</svg>
