@@ -61,7 +61,7 @@ val pratyush = Developer(
 ><br/>
 
 >**`Live on Play Store`**
-
+>
 >Smart timetable app for intuitive schedule planning and focused daily productivity.
 
 ><br/>
@@ -102,14 +102,14 @@ val pratyush = Developer(
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=pratyush-deve&theme=tokyonight&hide_border=true" 
-    width="90%"
+    width="88%"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&theme=tokyonight&hide_border=true" 
-    width="90%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    width="55%"
   />
 </p>
 
