@@ -51,22 +51,22 @@ val pratyush = Developer(
 
 >### 🕒 Timelyst
 
-<img 
+><img 
   src="assets/timelyst-icon.png" 
   alt="Timelyst Icon" 
   width="72"
   style="border-radius: 18px; margin-top: 6px; margin-bottom: 10px;"
 />
 
-<br/>
+><br/>
 
 >**`Live on Play Store`**
 
 >Smart timetable app for intuitive schedule planning and focused daily productivity.
 
-<br/>
+><br/>
 
-<a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
+><a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
   <img 
     src="assets/playstore-button.svg" 
     alt="Get it on Google Play" 
@@ -102,14 +102,14 @@ val pratyush = Developer(
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=pratyush-deve&theme=tokyonight&hide_border=true" 
-    height="180"
+    width="90%"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160"
+    width="90%"
   />
 </p>
 
