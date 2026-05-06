@@ -110,12 +110,6 @@ val pratyush = Developer(
     width="55%"
   />
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyush-deve&theme=tokyonight"
-    width="47%"
-  />
   
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyush-deve&theme=tokyonight"
