@@ -47,11 +47,32 @@ val pratyush = Developer(
 
 ## <img src="https://img.shields.io/badge/Projects-0B1020?style=flat-square&logo=appveyor&logoColor=60A5FA" /> Featured Projects
 
-> ### 🕒 Timelyst  
-> <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN"><img src="assets/timelyst-icon.svg" alt="Timelyst Icon" width="72" /></a>  
-> **`Live on Play Store`**  
-> Smart timetable app for intuitive schedule planning and focused daily productivity.  
-> <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN"><img src="assets/playstore-button.svg" alt="Get it on Google Play" width="165" /></a>
+<div align="left">
+
+> ### 🕒 Timelyst
+>
+> <img 
+>   src="assets/timelyst-icon.png" 
+>   alt="Timelyst Icon" 
+>   width="72"
+>   style="border-radius: 18px; margin-top: 6px; margin-bottom: 10px;"
+> />
+>
+> <br/>
+>
+> **`Live on Play Store`**
+>
+> Smart timetable app for intuitive schedule planning and focused daily productivity.
+>
+> <br/>
+>
+> <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
+>   <img 
+>     src="assets/playstore-button.svg" 
+>     alt="Get it on Google Play" 
+>     width="165"
+>   />
+> </a>
 
 ---
 
@@ -70,34 +91,72 @@ val pratyush = Developer(
 > ### 📄 PDF-Gen  
 > **`Internal Testing • Play Store`**  
 > Generate and manage PDFs in a clean, distraction-free experience without overwhelming ads or UI.
+</div>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
 
 ## <img src="https://img.shields.io/badge/Analytics-0B1020?style=flat-square&logo=databricks&logoColor=A78BFA" /> GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratyush-deve&theme=tokyonight&hide_border=true" alt="Streak Stats" width="88%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=pratyush-deve&theme=tokyonight&hide_border=true" 
+    width="88%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyush-deve&theme=tokyonight" alt="Repos per Language" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyush-deve&theme=tokyonight" alt="Most Commit Language" width="47%" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyush-deve&theme=tokyonight" 
+    width="47%"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyush-deve&theme=tokyonight"
+    width="47%"
+  />
 </p>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
 
-## <img src="https://img.shields.io/badge/Contributions-0B1020?style=flat-square&logo=github&logoColor=60A5FA" /> Contribution Snake
+## <img src="https://img.shields.io/badge/Contributions-0B1020?style=flat-square&logo=github&logoColor=60A5FA" /> Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pratyush-deve/pratyush-deve/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-deve&bg_color=0B1020&color=8B5CF6&line=60A5FA&point=C4B5FD&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
 
 ## <img src="https://img.shields.io/badge/Contact-0B1020?style=flat-square&logo=gmail&logoColor=A78BFA" /> Let's Connect
 
 <p align="center">
-  <a href="mailto:pratyush.deve@gmail.com"><img src="https://img.shields.io/badge/Email-101426?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/pratyush-nishank/"><img src="https://img.shields.io/badge/LinkedIn-101426?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
-  <a href="https://github.com/pratyush-deve"><img src="https://img.shields.io/badge/GitHub-101426?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="GitHub" /></a>
+  <a href="mailto:pratyush.deve@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-101426?style=for-the-badge&logo=gmail&logoColor=60A5FA" 
+      alt="Email"
+      height="42"
+      style="border-radius: 14px; margin-right: 10px;"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/pratyush-nishank/">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-101426?style=for-the-badge&logo=linkedin&logoColor=A78BFA" 
+      alt="LinkedIn"
+      height="42"
+      style="border-radius: 14px; margin-right: 10px;"
+    />
+  </a>
+
+  <a href="https://github.com/pratyush-deve">
+    <img 
+      src="https://img.shields.io/badge/GitHub-101426?style=for-the-badge&logo=github&logoColor=C9D1D9" 
+      alt="GitHub"
+      height="42"
+      style="border-radius: 14px;"
+    />
+  </a>
 </p>
+
+<div align="center">
+  <sub>Designed with a futuristic Android aesthetic • Clean, premium, and performance-minded.</sub>
+</div>
