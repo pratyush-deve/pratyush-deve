@@ -52,7 +52,7 @@ val pratyush = Developer(
 > Smart timetable app for intuitive schedule planning and focused daily productivity.  
 
 <a href="https://play.google.com/store/apps/details?id=com.pratyush.timegrid&hl=en_IN">
-  <img src="https://play.google.com/store/apps/icon?id=com.pratyush.timegrid" alt="Timelyst app icon" width="88" />
+  <img src="assets/timelyst-icon.png"
 </a>
 
 <br/>
@@ -86,11 +86,11 @@ val pratyush = Developer(
 ## <img src="https://img.shields.io/badge/Analytics-0B1020?style=flat-square&logo=databricks&logoColor=A78BFA" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-deve&show_icons=true&rank_icon=github&hide_border=true&bg_color=0B1020&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9" alt="Pratyush GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-deve&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-deve&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <img src="assets/divider-wave.svg" width="100%" alt="divider"/>
@@ -107,14 +107,30 @@ val pratyush = Developer(
 
 <p align="center">
   <a href="mailto:pratyush.deve@gmail.com">
-    <img src="https://img.shields.io/badge/Email-101426?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
+    <img 
+      src="https://img.shields.io/badge/Email-101426?style=for-the-badge&logo=gmail&logoColor=60A5FA" 
+      alt="Email"
+      height="42"
+      style="border-radius: 14px; margin-right: 10px;"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/pratyush-nishank/">
-    <img src="https://img.shields.io/badge/LinkedIn-101426?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-101426?style=for-the-badge&logo=linkedin&logoColor=A78BFA" 
+      alt="LinkedIn"
+      height="42"
+      style="border-radius: 14px; margin-right: 10px;"
+    />
   </a>
+
   <a href="https://github.com/pratyush-deve">
-    <img src="https://img.shields.io/badge/GitHub-101426?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="GitHub" />
+    <img 
+      src="https://img.shields.io/badge/GitHub-101426?style=for-the-badge&logo=github&logoColor=C9D1D9" 
+      alt="GitHub"
+      height="42"
+      style="border-radius: 14px;"
+    />
   </a>
 </p>
 
